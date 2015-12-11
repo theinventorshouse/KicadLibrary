@@ -19,6 +19,9 @@ Device Part List
 
 :Solder Jumper:
 
+:ESP8266EX:
+  Soc WiFi ESP8266EX
+
 
 Footprint List
 --------------
